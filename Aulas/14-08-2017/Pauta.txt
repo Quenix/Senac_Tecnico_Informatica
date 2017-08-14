@@ -11,6 +11,10 @@ O que você está buscando com o curso?
 Programação. Seremos programadores.
 
 3 - O que é programação e o que faz um programador?
+- Encontra um problema
+- Procura no google
+- Recebe o salário
+
 As definições:
 http://www.adamsilva.com.br/profissoes/programador/
 
@@ -52,6 +56,33 @@ Programas que utilizaremos:
 - VisuAlg
 - Google Chrome / Mozilla Firefox / Internet Explorer
 
-preciso terminar....
+##########################
+Primeira etapa do curso:
+
+- Treinar raciocínio lógico.
+- Escrever e analisar algoritmos.
+- Criar, modificar e deletar bases de dados.
+- MESTRAR A HABILIDADE NO GOOGLE
+
+O que é um Algoritmo?
+- [...]
+
+
+Algoritmo "Atravessar a Rua"
+Início
+{...}
+Fim
+
+
+SUPER PLAY
+
+
+
+
+
+
+
+
+
 
 
