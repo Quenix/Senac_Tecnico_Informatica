@@ -1,0 +1,57 @@
+Aula 14/08/2017 - Senac - Técnico em Informática
+Professor: Leonardo Vasques
+
+1 - Introdução e apresentação
+Qual seu nome?
+Quais são seus hobbies?
+Trabalha ou já trabalhou (qualquer área)?
+O que você está buscando com o curso?
+
+2 - O que iremos aprender?
+Programação. Seremos programadores.
+
+3 - O que é programação e o que faz um programador?
+As definições:
+http://www.adamsilva.com.br/profissoes/programador/
+
+O perfil do programador:
+https://www.tiagogouvea.com.br/os-5-principais-requisitos-para-ser-um-bom-programador
+
+4 - Métodos de avaliação
+Engajamento
+Qualidade de entrega
+Trabalho em equipe
+Solução de problemas
+
+Engajamento -> Pró-atividade no decorrer do curso. Buscar informação. Auto-didata. Trocar informações com os parceiros. Fomentar discussões.
+
+Qualidade de entrega -> Respeitar prazos. Código formoso, código bonito. Pensar duas vezes, escrever uma. Elaborar uma boa documentação.
+
+Trabalho em equipe -> Ninguém trabalha sozinho. Se alguém está para trás, seja o cara que oferece uma mão. Como disse seu colega de facebook que Einstein disse (mas ninguém sabe se disse, mesmo):
+
+ “Todo mundo é um gênio. Mas, se você julgar um peixe por sua capacidade de subir em uma árvore, ele vai gastar toda a sua vida acreditando que é estúpido.”
+
+Solução de Problemas -> Busque soluções, seja um Problem Solver. Não apenas de código, mas de situações. Não apenas o que eu impor, mas no dia-a-dia o que for aparecendo.
+
+
+Estes 4 itens definem a nota total de vocês. Dentro do quesito "Qualidade de entrega" encontram-se os exercícios práticos e avaliações.
+
+5 - Preparando nosso ambiente
+Para trabalharmos simulando um ambiente de trabalho real (modo easy*), gostaria que todos criassem uma conta nos respectivos serviços:
+- Skype
+- Github
+- Grupo no WhatsApp
+
+E depois me procurem por lá.
+Skype: leonardo.vasques@outlook.com
+Github: github.com/Quenix
+Whatsapp: (16) 98205-2204
+
+Programas que utilizaremos:
+- SourceTree
+- VisuAlg
+- Google Chrome / Mozilla Firefox / Internet Explorer
+
+preciso terminar....
+
+
