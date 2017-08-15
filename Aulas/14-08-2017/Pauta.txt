@@ -65,16 +65,38 @@ Primeira etapa do curso:
 - MESTRAR A HABILIDADE NO GOOGLE
 
 O que é um Algoritmo?
-- [...]
+- Sequência de instruções (passo-a-passo) para realizar uma determinada tarefa.
 
 
-Algoritmo "Atravessar a Rua"
-Início
-{...}
-Fim
+Comandos VISUALG
+
+Escreva -> Mostra algo na tela   escreva()
+Escreval -> Mostra algo na tela e faz quebra de linha escreval()
+	Ex:  escreva("Olá mundo!")      escreva(2+2)
+leia -> Recebe uma informação do usuário. Devemos passar entre () a variável que irá receber o dado.
+	Ex: leia(nome)
 
 
-SUPER PLAY
+Tipos de variáveis
+inteiro  -> Para trabalhar com números inteiros
+caractere -> Para trabalhar com caracteres/textos
+
+
+Para concatenar TEXTOS utilize o sinal +
+Para concatenar INTEIROS utilize a vírgula ,
+
+
+Continua na próxima aula...
+
+
+
+
+
+
+
+
+
+
 
 
 
