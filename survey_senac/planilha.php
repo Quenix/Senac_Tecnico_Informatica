@@ -6,7 +6,9 @@
  *-->
  <?php
 	//session_start();
-	include_once('connection.php');
+	//require('connection.php');
+	//MOSTRAR DADOS EM PDO - URGENTE
+	$connect = mysqli_connect("localhost", "root", "", "survey_senac");
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -37,9 +39,9 @@
 
 		//SELECIONA ITENS DA TABELA
 		$select = "SELECT perguntas.id_pergunta, texto_pergunta, id_entrevistado, texto_resposta, ip_usuario";
-    $select .=" FROM respostas inner join perguntas on respostas.id_pergunta = perguntas.id_pergunta";
+		$select .=" FROM respostas inner join perguntas on respostas.id_pergunta = perguntas.id_pergunta";
 
-		$sql = mysqli_query($strcon , $select);
+		$sql = mysqli_query($connect , $select);
 
 		while($show = mysqli_fetch_assoc($sql)){
 			$html .= '<tr>';
