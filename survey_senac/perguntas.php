@@ -97,7 +97,7 @@ $id = $select->fetchColumn();
 							<label>Qual Sistema Operacional você prefere?</label>
 							<div class="form-group">
 								<input type="radio" name="8" id="i1" value="windows" required/>
-								<label for="i1"><img src="img/windows.jpg" alt=""></label>
+								<label for="i1"><img src="img/windows.png" alt=""></label>
 								<input type="radio" name="8" id="i2" value="linux"/>
 								<label for="i2"><img src="img/linux.png" alt=""></label>
 								<input type="radio" name="8" id="i3" value="macapple"/>
